@@ -14,6 +14,6 @@ Usage options:
     First run after system boot (removes expired tasks stored in "tasks", "fileTasks" 
     and "notifications" files and adds active tasks to "to do queue").  
   -v:
-		Show the application's version.
+    Show the application's version.
   -h:
     Show help options.
