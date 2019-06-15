@@ -6,7 +6,7 @@ Main script is "taskPlanner.sh", add this program to your startup programs list 
 
 Files description:
   "notifications" - stores your notifications tasks
-  "tasks" - stores your programm tasks
+  "tasks" - stores your program tasks
   "fileTasks" - stores your tasks with file option
 
 Usage options:
